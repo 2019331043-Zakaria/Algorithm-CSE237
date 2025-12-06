@@ -100,6 +100,8 @@ ll query(int node, int b, int e, int i, int j, ll carry = 0)
     return p1 + p2;
 }
 
+
+
 int main()
 {
     
@@ -112,7 +114,7 @@ int main()
 
       init(1,1, n);
 
-      while(k--)
+     /* while(k--)
       {
            int t;
            cin>>t;
@@ -130,7 +132,7 @@ int main()
                update(1, 1, n, l, r , x);
 
            }
-      }
+      }*/
 
 
 
